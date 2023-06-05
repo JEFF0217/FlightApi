@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "POJoVmKrL792SFS7heBeTyRloaEkTmXyeVAMk27YIbXmGzlSLJneA+MYz/+9s3C8TxRa7ihmpdbXl+O2y8IIpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jeffe\\OneDrive\\Documentos\\GitHub\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeffe\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

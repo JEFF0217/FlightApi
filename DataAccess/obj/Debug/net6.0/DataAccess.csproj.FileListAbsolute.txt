@@ -1,0 +1,12 @@
+C:\Users\jeffe\OneDrive\Documentos\GitHub\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\jeffe\OneDrive\Documentos\GitHub\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\jeffe\OneDrive\Documentos\GitHub\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\jeffe\OneDrive\Documentos\GitHub\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\jeffe\OneDrive\Documentos\GitHub\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Documentos\GitHub\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\GitHub\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Documentos\GitHub\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\GitHub\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\jeffe\OneDrive\Documentos\GitHub\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\jeffe\OneDrive\Documentos\GitHub\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\jeffe\OneDrive\Documentos\GitHub\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
